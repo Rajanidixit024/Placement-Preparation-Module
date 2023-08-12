@@ -1,6 +1,6 @@
 # Placement-Prepration-Module
 
-# Name- Ashmit Tayal
+# Name- Rajani Dixit
 # Branch- CSE
-# Section- A
-# University Roll No.- 2000290100033
+# Section- B
+# University Roll No.- 2000290100110
